@@ -1,8 +1,8 @@
-# TikTokPy - TikTok Editing Tool
+# PyTik - TikTok Editing Tool
 
 ## Description
 
-TikTokPy is a web-based tool designed to help you create stunning TikTok videos with ease. It offers a range of features including video editing, music integration, and easy sharing options.
+PyTik is a web-based tool designed to help you create stunning TikTok videos with ease. It offers a range of features including video editing, music integration, and easy sharing options.
 
 ## Features
 
